@@ -50,4 +50,4 @@ I'm a Mechatronics Engineering student at McMaster Univeristy (graduating April 
 
 ## 📫 Get in Touch
 
-- LinkedIn: [your-linkedin-handle](www.linkedin.com/in/faraaz-ahmed-a05680220)
+- LinkedIn: [faraaz-ahmed-a05680220](www.linkedin.com/in/faraaz-ahmed-a05680220)
