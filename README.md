@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ---
 # Hi, I'm Faraaz! 👋
-I'm a recent Mechatronics Engineering graduate from McMaster University **robotics, embedded systems, and applied machine learning**.
+I'm a recent Mechatronics Engineering graduate from McMaster University with a passion for **robotics, embedded systems, and applied machine learning**.
 
 I enjoy building projects that connect hardware, software, and data — from embedded controllers and robotic systems to machine learning pipelines and factory automation tools, all with one focus functionality and purpose. 
 
