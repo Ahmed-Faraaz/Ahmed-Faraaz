@@ -79,4 +79,4 @@ I'm currently strengthening my skills in:
 
 ## 📫 Get in Touch
 
-- LinkedIn: [faraaz-ahmed-a05680220](www.linkedin.com/in/faraazahmed2003)
+- LinkedIn: www.linkedin.com/in/faraazahmed2003
