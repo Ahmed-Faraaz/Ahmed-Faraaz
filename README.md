@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
+# Hi, I'm Faraaz! 👋
+I'm a recent Mechatronics Engineering graduate from McMaster University **robotics, embedded systems, and applied machine learning**.
 
-I'm a Mechatronics Engineering student at McMaster Univeristy (graduating April 2026) interested in **robotics, embedded systems, and applied machine learning**.
+I enjoy building projects that connect hardware, software, and data — from embedded controllers and robotic systems to machine learning pipelines and factory automation tools, all with one focus functionality and purpose. 
 
-## 🔧 What I Work With
+## 🔧 Technical Skills
 
 - **Languages:** C, C++, Python, Bash, JavaScript (Google Apps Script)
 - **Embedded & Robotics:** STM32 / ARM Cortex-M, ESP32-S2, UR robots, real-time systems
@@ -28,26 +30,55 @@ I'm a Mechatronics Engineering student at McMaster Univeristy (graduating April 
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Projects
 
-- **[HALO Baby Monitor – Embedded Infant Cry Classification](https://github.com/Ahmed-Faraaz/halo-baby-monitor.git)**  
-  Embedded audio classification pipeline for infant cries, targeting an ESP32-S2 wearable device.
+### [HALO Baby Monitor — Infant Wellness Monitoring System](https://github.com/Ahmed-Faraaz/halo-baby-monitor)
 
-- **[Pacemaker Controller – FRDM K-64 & HeartView](https://github.com/Ahmed-Faraaz/pacemaker-controller-frdmk64.git)**  
-  Safety-focused pacemaker control algorithms on a microcontroller with UART-based parameter tuning.
+Infant wellness monitoring prototype combining a wearable sensing node, ESP32-based dock, analytics backend, cry classification pipeline, and caregiver-facing dashboard.
 
-- **[Fish Eye Freshness Classifier – Computer Vision](https://github.com/Ahmed-Faraaz/fish-eye-freshness-classifier.git)**  
-  CNN-based freshness classification from fish eye images using the FFE dataset.
+- Built a two-stage audio classification pipeline for cry/not-cry detection and cry reason classification
+- Integrated embedded system design concepts including BLE, Wi-Fi, sensors, and REST API communication
+- Developed project documentation covering system requirements, hazard analysis, system design, and prototype workflow
+
+**Tech:** Python, PyTorch, FastAPI, ESP32, nRF SoC, BLE, REST API
 
 ---
 
-## 💼 Experience
+### [Fish Eye Freshness Classifier — Computer Vision](https://github.com/Ahmed-Faraaz/fish-eye-freshness-classifier)
 
-- **Automation Engineering Support & Development – Celestica**  
-  Working with self-driving vehicles (SDVs), UR robots, IoT devices, and internal tooling to automate manufacturing workflows.
+Computer vision project that classifies fish freshness from fish eye images using the Freshness of Fish Eyes dataset.
+
+- Trained and evaluated custom CNN and ResNet18 transfer learning models
+- Improved test accuracy from a custom CNN baseline to a final ResNet18 model
+- Used Grad-CAM visualizations to confirm model attention on biologically relevant eye regions
+
+**Tech:** Python, PyTorch, Torchvision, Pandas, Scikit-learn, Grad-CAM
+
+---
+
+### [Pacemaker Controller — FRDM-K64 & Device Controller-Monitor](https://github.com/Ahmed-Faraaz/pacemaker-controller-frdmk64)
+
+Embedded systems project implementing a multi-mode cardiac pacemaker and external Device Controller-Monitor.
+
+- Developed pacemaker control logic in MATLAB Simulink/Stateflow
+- Implemented programmable pacing modes including AOO, VOO, AAI, VVI, rate-adaptive modes, and DDDR
+- Built a Python DCM with GUI, SQL-backed parameter storage, and UART-based communication
+
+**Tech:** MATLAB, Simulink, Stateflow, Python, UART, SQLite, FRDM-K64F
+
+---
+
+## 🌱 Current Focus
+
+I'm currently strengthening my skills in:
+
+- Robotics software development and design
+- ROS 2 and Linux-based robotics workflows
+- Embedded systems and sensor integration
+- Applied machine learning for real-world systems
 
 ---
 
 ## 📫 Get in Touch
 
-- LinkedIn: [faraaz-ahmed-a05680220](www.linkedin.com/in/faraaz-ahmed-a05680220)
+- LinkedIn: [faraaz-ahmed-a05680220](www.linkedin.com/in/faraazahmed2003)
